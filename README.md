@@ -1,0 +1,2 @@
+# FtcJavaDoc
+JavaDoc for FtcTemplate
